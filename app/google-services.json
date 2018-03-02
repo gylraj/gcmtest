@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531333289193",
+    "firebase_url": "https://gylrajmakeit.firebaseio.com",
+    "project_id": "gylrajmakeit",
+    "storage_bucket": "gylrajmakeit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531333289193:android:cded7d8d6651fa5b",
+        "android_client_info": {
+          "package_name": "com.gylraj.gcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531333289193-17oqsffg2b0qqsmulr8aug1kpaml9ptv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77AQZJ_R6nH6CuwQBJlx2LLO5LHW8nYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
